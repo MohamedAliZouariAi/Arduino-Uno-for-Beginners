@@ -3,5 +3,5 @@ https://youtu.be/H2LvUV3OCjo
 
 Electronic Components :  
 *) Arduino Uno  
-*) 1 resistance 220 ohm.  
+*) 220 ohm resistor.  
 *) 1 red LED.
