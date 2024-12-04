@@ -6,4 +6,4 @@ Electronic Components :
 *) 220 ohm resistor.  
 *) 1 red LED.  
 
-![wiring](wiring-2.png)
+![wiring](wiring2.png)
