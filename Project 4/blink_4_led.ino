@@ -34,10 +34,4 @@ void loop()
   delay(200);                 // wait for a 0.2 s
   digitalWrite(Blue, LOW);    // turn the Blue LED off by making the voltage LOW
   delay(200);                 // wait for a 0.2 s
-
-
-  
-
-
-
 }
