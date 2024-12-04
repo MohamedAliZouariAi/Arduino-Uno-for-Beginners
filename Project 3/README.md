@@ -6,4 +6,4 @@ Electronic Components :
 *) 4  220 ohm resistor.  
 *) 4  LEDs (RED, Yellow, Green, Blue).  
 
-![wiring](wiring2.png)
+![wiring](wiring3.png)
