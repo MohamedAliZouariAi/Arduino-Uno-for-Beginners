@@ -5,4 +5,5 @@ Electronic Components :
 *) Arduino Uno.  
 *) 3 resistors (220 ohm).  
 *) 1 RGB LED.    
-![wiring](wiring6.png)
+![wiring](wiring6.png)  
+![wiring](color_code.png)  
