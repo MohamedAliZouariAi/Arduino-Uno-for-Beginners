@@ -20,9 +20,9 @@ void loop()
   digitalWrite(Yellow, HIGH);
   digitalWrite(Red, HIGH);
   delay(500);                 // wait for a 0.5 s
-  digitalWrite(Blue, LOW);    // turn the LEDs on (HIGH is the voltage level)
+  digitalWrite(Blue, LOW);    // / turn the LEDs off by making the voltage LOW
   digitalWrite(Green, LOW);
   digitalWrite(Yellow, LOW);
-  digitalWrite(Red, LOW);     // turn the LEDs off by making the voltage LOW
-  delay(500);                 // wait for a 0.1 s
+  digitalWrite(Red, LOW);     
+  delay(500);                 // wait for a 0.5 s
 }
